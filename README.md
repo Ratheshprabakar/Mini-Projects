@@ -18,3 +18,14 @@
 - Return whether the triangle is a Pythagorean Triple or not.
 
 - Loop the program so the user can use it more than once without having to restart the program.
+
+
+**Day 3 : Multiplication Table Generator**
+
+- Allows the user to input the table number.
+
+- Generate and print the tables upto 50 values.
+
+- Loop the program so the user can use it more than once without having to restart the program.
+
+
