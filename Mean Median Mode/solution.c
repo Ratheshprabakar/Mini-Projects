@@ -3,17 +3,21 @@ int *array;
 int sum=0;
 int main()
 {
-	int n,i;
-	printf("Enter the no of elements\t");
-	scanf("%d",&n);
-	array=(int *)malloc(n*sizeof(int));
-	for(i=0;i<n;i++)
+	while(1)
 	{
-		scanf("%d",&array[i]);
-		sum+=array[i];
+		int n,i;
+		printf("Enter the no of elements\t");
+		scanf("%d",&n);
+		array=(int *)malloc(n*sizeof(int));
+		printf("\nEnter the elements\n");
+		for(i=0;i<n;i++)
+		{
+			scanf("%d",&array[i]);
+			sum+=array[i];
+		}
+		mean_medain_mode(n);
+		free(array);
 	}
-	mean_medain_mode(n);
-	free(array);
 }
 void mean_medain_mode(int n)
 {
