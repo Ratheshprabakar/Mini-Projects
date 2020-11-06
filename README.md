@@ -1,8 +1,8 @@
-# 30-days-of-miniproject
+# Miniproject
 
 (Beginner Level)
 
-**Day 1 : Armstrong Number Finder** 
+**Project 1 : Armstrong Number Finder** 
 
 - Define a function that allows the user to check whether a given number is armstrong number or not.
 
@@ -11,7 +11,7 @@
 - Example: Take 1634. Four digits. So, 1^4 + 6^4 + 3^4 + 4^4 = 1 + 1296 + 81 + 256 = 1634. So 1634 is an Armstrong number.
 
 
-**Day 2 : Pythagorean Triples Checker** 
+**Project 2 : Pythagorean Triples Checker** 
 
 - Allows the user to input the sides of any triangle in any order.
 
@@ -20,7 +20,7 @@
 - Loop the program so the user can use it more than once without having to restart the program.
 
 
-**Day 3 : Multiplication Table Generator**
+**Project 3 : Multiplication Table Generator**
 
 - Allows the user to input the table number.
 
@@ -29,7 +29,7 @@
 - Loop the program so the user can use it more than once without having to restart the program.
 
 
-**Day 4 : Change Calculator**
+**Project 4 : Change Calculator**
 
   - Imagine that your friend is a cashier, but has a hard time counting back change to customers.
   
@@ -37,7 +37,7 @@
   
   - To make the program even easier to use, loop the program back to the top so your friend can continue to use the program without having to close and open it every time he needs to count change.
   
- **Day 5 : Mean, Median and Mode Calculator**
+ **Project 5 : Mean, Median and Mode Calculator**
  
    - In a set of numbers, the mean is the average, the mode is the number that occurs the most, and if you rearrange all the numbers numerically, the median is the number in the middle.
 
@@ -48,7 +48,7 @@
       - If there is an even number of numbers in the list, return both numbers that could be considered the median.
       - If there are multiple modes, return all of them.
       
-**Day 6 : Higher Lower Prediction Game**
+**Project 6 : Higher Lower Prediction Game**
 
  - Create a simple game where the computer randomly selects a number between 1 and 100 and the user has to guess what the number is.
  
